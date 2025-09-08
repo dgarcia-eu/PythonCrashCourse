@@ -16,7 +16,7 @@ The course does not follow a specific textbook but useful references are "Learn 
 ### Day 0
 
 Before starting the block course, students should install the Jupyter environment or another IDE that allows them to follow the course.
-[Instructions how to install Jupyter can be found here.]()
+[Instructions how to install Jupyter can be found here.](setup/Anaconda.html)
 We recommend the students to familiarize themselves with the basics of coding in the Jupyter environment before the course starts.
 
 
