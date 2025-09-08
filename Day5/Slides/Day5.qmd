@@ -1,0 +1,17 @@
+---
+title: "Introduction to Programming with Python \n\n\n Day 5"
+author: "David Garcia, University of Konstanz"
+format: metropolis-revealjs
+highlight-style: github
+---
+
+## Quiz I
+
+
+...
+
+
+## Feedback on Day 4
+
+![](QR.png){fig-align="center"}
+
