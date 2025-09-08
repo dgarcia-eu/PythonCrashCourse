@@ -25,13 +25,13 @@ We recommend the students to familiarize themselves with the basics of coding in
 - Welcome and course logistics: [Slides]()
 
 - Interactive lecture: Jupyter Notebook walkthrough
-    - 10_jupyter_walkthrough.txt
+    - [10_jupyter_walkthrough.txt](Day1/10_jupyter_walkthrough.txt)
 
 - Interactive lecture: Variables, strings, and numbers
-    - 11_var_string_num.ipynb
+    - [11_var_string_num.ipynb](Day1/11_var_string_num.ipynb)
 
 - Interactive lecture: Introduction to lists and basic loops
-    - 12_lists_tuples-1.ipynb
+    - [12_lists_tuples-1.ipynb](Day1/12_lists_tuples-1.ipynb)
     
 - Assignment 1: Variables, Strings, Numbers, Lists, and Loops
   - Deadline: October 13th, 23:59
